@@ -1,7 +1,9 @@
 # airline_reservation_system
 demo of airline reservation system 
-backend----- using java jdbc driver
-front end-----  using java swing
+backend-----> using java jdbc driver
+front end----->  using java swing
+IDE used-----> Netbeans
+Also implemnting OOPs concept
 
 
 
